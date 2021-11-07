@@ -57,8 +57,6 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 			css : {color:'#31b404','font-size':'3em'}
 			},
 
-  base_url : {//Where are your images at?
-    image : 'https://baranan.github.io/minno-tasks/images/'
-  }}
+}
   );
   });
