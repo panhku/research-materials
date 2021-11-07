@@ -14,7 +14,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				{word: 'humans'},
 				{word: 'mankind'},
 				{word: 'individuals'},
-				{word: 'persons'},
+				{word: 'persons'}
 		    ], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
@@ -33,7 +33,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				{word: 'nature'},
 				{word: 'instinct'},
 				{word: 'physical'},
-				{word: 'bodies'},
+				{word: 'bodies'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
@@ -51,7 +51,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				{word: 'society'},
 				{word: 'mind'},
 				{word: 'symbols'},
-				{word: 'monuments'},
+				{word: 'monuments'}
 			], 
 			//Can change color and size of the targets here.
 			css : {color:'#31b404','font-size':'3em'}
